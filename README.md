@@ -1,5 +1,10 @@
 # India Tech Job Market Analytics
 
+## Project Links
+
+- GitHub Repository: https://github.com/Harsh-itha2001/india-tech-job-market-analytics
+- Power BI Dashboard File: INDIA_JOB_MARKET.pbix (included in repository)
+
 ## Project Overview
 This project analyzes the Indian technology job market using Python, SQL, MySQL, and Power BI.
 
@@ -51,12 +56,29 @@ The dataset contains Indian technology job postings including:
 
 ---
 
+
+
+
+---
+
 ## Key Insights
 
-- Bengaluru has the highest number of tech job openings.
-- NCR Region ranks second in hiring demand.
-- Data Analyst roles dominate the market.
-- Most jobs require 0–1 years of experience.
+- Bengaluru leads with 261 job postings.
+- NCR Region follows with 245 job postings.
+- Data Analyst roles account for approximately 44% of total openings.
+- Most positions require 0–1 years of experience.
+- Average company rating across postings is 3.58.
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- SQL Querying
+- Database Design
+- Data Visualization
+- Power BI Dashboarding
+- Business Insights Generation
 
 ---
 
