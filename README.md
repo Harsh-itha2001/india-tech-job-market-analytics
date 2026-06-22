@@ -20,7 +20,7 @@ The goal is to identify:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_overview.jpeg)
+![Dashboard Preview](India_job_market_dashboard_ss.jpeg)
 
 ---
 
