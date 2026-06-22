@@ -87,7 +87,7 @@ The dataset contains Indian technology job postings including:
 | File | Description |
 |--------|-------------|
 | INDIA_JOB_MARKET.pbix | Power BI Dashboard |
-| dashboard_overview.jpeg | Dashboard Screenshot |
+| India_job_market_dashboard_ss.jpeg | Dashboard Screenshot |
 | dashboard_overview.py | Data Processing Script |
 | Indian_job_market_db.sql | SQL Database Script |
 | Indian_job_market_dbfull.sql | Complete SQL Script |
